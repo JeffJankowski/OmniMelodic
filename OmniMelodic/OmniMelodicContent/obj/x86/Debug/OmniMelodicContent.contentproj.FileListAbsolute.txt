@@ -1,0 +1,2 @@
+C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff\Desktop\OmniMelodic_TEST\OmniMelodic\OmniMelodicContent\obj\x86\Debug\ResolveAssemblyReference.cache

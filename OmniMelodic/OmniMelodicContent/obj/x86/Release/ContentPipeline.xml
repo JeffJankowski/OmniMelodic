@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>green_dark_off.png</Source>
+      <Name>green_dark_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\green_dark_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>green_dark_on.png</Source>
+      <Name>green_dark_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\green_dark_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>green_light_off.png</Source>
+      <Name>green_light_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\green_light_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>green_light_on.png</Source>
+      <Name>green_light_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\green_light_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>green_mid_off.png</Source>
+      <Name>green_mid_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\green_mid_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>green_mid_on.png</Source>
+      <Name>green_mid_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\green_mid_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>orange_dark_off.png</Source>
+      <Name>orange_dark_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\orange_dark_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>orange_dark_on.png</Source>
+      <Name>orange_dark_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\orange_dark_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>orange_light_off.png</Source>
+      <Name>orange_light_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\orange_light_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.3179279-04:00</Time>
+    </Item>
+    <Item>
+      <Source>orange_light_on.png</Source>
+      <Name>orange_light_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\orange_light_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>orange_mid_off.png</Source>
+      <Name>orange_mid_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\orange_mid_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>orange_mid_on.png</Source>
+      <Name>orange_mid_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\orange_mid_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_dark_off.png</Source>
+      <Name>red_dark_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\red_dark_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_dark_on.png</Source>
+      <Name>red_dark_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\red_dark_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_light_off.png</Source>
+      <Name>red_light_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\red_light_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_light_on.png</Source>
+      <Name>red_light_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\red_light_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_mid_off.png</Source>
+      <Name>red_mid_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\red_mid_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_mid_on.png</Source>
+      <Name>red_mid_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\red_mid_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teal_dark_off.png</Source>
+      <Name>teal_dark_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\teal_dark_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teal_dark_on.png</Source>
+      <Name>teal_dark_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\teal_dark_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teal_light_off.png</Source>
+      <Name>teal_light_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\teal_light_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teal_light_on.png</Source>
+      <Name>teal_light_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\teal_light_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teal_mid_off.png</Source>
+      <Name>teal_mid_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\teal_mid_off.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>teal_mid_on.png</Source>
+      <Name>teal_mid_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\teal_mid_on.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\menu.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>x.png</Source>
+      <Name>x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\x.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\pixel.xnb</Output>
+      <Time>2011-04-21T16:14:28.349128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\circle.xnb</Output>
+      <Time>2011-04-21T16:14:28.333528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.png</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\missile.xnb</Output>
+      <Time>2011-05-02T14:42:03.8417969-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Piano_B.wav</Source>
+      <Name>Piano_B</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Piano_B.xnb</Output>
+      <Time>2011-04-21T16:14:28.364728-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Piano_C.wav</Source>
+      <Name>Piano_C</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Piano_C.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Piano_E.wav</Source>
+      <Name>Piano_E</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Piano_E.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Piano_G.wav</Source>
+      <Name>Piano_G</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Piano_G.xnb</Output>
+      <Time>2011-04-21T16:14:28.380328-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cello_C_02.mp3</Source>
+      <Name>Cello_C_02</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_02.xnb</Output>
+      <Extra>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_02.wma</Extra>
+      <Time>2011-05-02T18:13:57.1113282-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cello_C_04.mp3</Source>
+      <Name>Cello_C_04</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_04.xnb</Output>
+      <Extra>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_04.wma</Extra>
+      <Time>2011-05-02T18:13:57.1123047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cello_C_06.mp3</Source>
+      <Name>Cello_C_06</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_06.xnb</Output>
+      <Extra>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_06.wma</Extra>
+      <Time>2011-05-02T18:13:57.1132813-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cello_C_08.mp3</Source>
+      <Name>Cello_C_08</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_08.xnb</Output>
+      <Extra>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_08.wma</Extra>
+      <Time>2011-05-02T18:13:57.1142579-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cello_C_10.mp3</Source>
+      <Name>Cello_C_10</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_10.xnb</Output>
+      <Extra>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\Cello_C_10.wma</Extra>
+      <Time>2011-05-02T18:13:57.1142579-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodicContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodicContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jeff\Documents\Visual Studio 2010\Projects\OmniMelodic_TEST\OmniMelodic\OmniMelodic\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-02T13:36:15.8938564-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
